@@ -1,0 +1,39 @@
+name: spandaula
+description: "Unofficial Flutter client for the Danish school platform Aula. Hobby project, not affiliated with KMD/Netcompany."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.10.1
+
+dependencies:
+  cached_network_image: ^3.4.1
+  flutter:
+    sdk: flutter
+  flutter_riverpod: ^2.6.1
+  haptic_feedback: ^0.6.4+3
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  http: ^1.6.0
+  hugeicons: ^1.1.5
+  intl: ^0.20.2
+  page_transition: ^2.2.1
+  path_provider: ^2.1.5
+  riverpod_annotation: ^2.6.1
+  shared_preferences: ^2.5.4
+  url_launcher: ^6.3.2
+  webview_cookie_manager: ^2.0.6
+  webview_flutter: ^4.13.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  build_runner: ^2.4.15
+  riverpod_generator: ^2.6.5
+  riverpod_lint: ^2.6.5
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
