@@ -2,7 +2,7 @@
 
 *– klassens frækkeste krumme*
 
-> **English summary:** Spandaula is an unofficial, hobbyist Flutter client for [Aula](https://www.aula.dk/), the Danish school/daycare communication platform. It is **not affiliated with, endorsed by, or sponsored by KMD, Netcompany, MitID, or any school authority**. Released as a proof-of-concept under the MIT license — use at your own risk. See [Disclaimer](#disclaimer).
+> **English summary:** Spandaula is an unofficial, hobbyist Flutter client for [Aula](https://www.aula.dk/), the Danish school/daycare communication platform. It is **not affiliated with, endorsed by, or sponsored by KOMBIT, Netcompany, MitID, or any school authority**. Released as a proof-of-concept under the MIT license — use at your own risk. See [Disclaimer](#disclaimer).
 
 ## Hvad er det her?
 
